@@ -1,2 +1,2 @@
 # coda-bnv-j2
-Exos de prog pour bas niveau
+Exercices de programmation pour bas niveau.
